@@ -33,3 +33,5 @@ Installer/
 *.ReSharper.user
 *.ma2
 *.user
+*.scc
+*.vssscc
