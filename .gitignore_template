@@ -1,4 +1,3 @@
-
 Thumbs.db
 #Ignore files build by Visual Studio
 Artifacts
@@ -35,3 +34,6 @@ Installer/
 *.user
 *.scc
 *.vssscc
+*.sqlsuo
+*.cs.orig
+*.tmp
